@@ -81,19 +81,6 @@ Snoozed Settings:
 - Settings that require VS Code restart to take effect may not work as expected
 - Some workspace-specific settings may behave differently than global settings
 
-## Release Notes
-
-### 0.0.1
-
-Initial release with core snooze functionality:
-- Snooze any VS Code setting for configurable duration
-- Automatic restoration of expired settings
-- List and clear snoozed settings
-- Persistent storage across VS Code restarts
-- Configurable default duration
-
----
-
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
